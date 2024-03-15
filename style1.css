@@ -1,0 +1,34 @@
+img{
+    width:300px;
+    height:400px;
+   
+}
+.main{
+   display: flex;
+   border: 3px solid grey;
+   justify-content: space-evenly;
+   text-align:center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   margin-top:150px;
+}
+.a{
+    height:250px;
+    width: 250px;
+    border-radius: 50%;
+    padding-top:20px;
+    box-shadow:5px 5px black;
+}
+.mainpage{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220217/pngtree-colorful-sports-theme-background-material-image_944423.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3,h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img1{
+  height:10px;
+  width:20px;
+   
+}
